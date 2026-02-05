@@ -28,13 +28,16 @@ Jupyter notebook с кодом решения находится в файле *
 
 ## • Результаты A/B теста
 
-<img src="images/control_conversion.png" alt="pic1" width="500">
-<img src="images/test_conversion.png" alt="pic1" width="500">
 
-<img src="images/control_funnel.png" alt="pic1" width="400"><img src="images/test_funnel.png" alt="pic1" width="400">
+
+<img src="images/control_funnel.png" alt="pic1" width="500">
+<img src="images/test_funnel.png" alt="pic1" width="500">
 
 <img src="images/control_phase.png" alt="pic1" width="800">
 <img src="images/test_phase.png" alt="pic1" width="800">
+
+<img src="images/control_conversion.png" alt="pic1" width="500">
+<img src="images/test_conversion.png" alt="pic1" width="500">
 
 <img src="images/metrics.png" alt="pic1" width="800">
 
@@ -80,6 +83,7 @@ Jupyter notebook с кодом решения находится в файле *
 Результаты: главные конверсии отложенных и срочных заказов оказались равными, соответственно 60% и 58%. Разница в 2% не оказалась статистически значимой. Абсолютно все отложенные заказы (100%) находят водителя для исполнения, однако шанс того, что водитель доедет до первой точки всего 69%. Для сравнения в срочных заказах этот показатель больше и равен 76%.
 
 Вывод: отложенные заказы не оказывают влияния на главную конверсию, и имеют такой же шанс на выполнение как и срочные. На отложенные заказы всегда находится водитель, однако 31% так и не приступают к его выполнению
+
 
 
 
