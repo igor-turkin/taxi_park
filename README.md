@@ -24,7 +24,7 @@
 ---
 Датасет A/B теста находится в файле **`datapark.csv`**  
 Описание данных датасета находится в файле **`description.txt`**  
-Jupyter notebook с анализом находится в файле **`taxi_park_ab_test.ipynb`**
+Jupyter notebook с анализом находится в файле **`taxi_park_ab_test.ipynb`**  
 Дашбоард Power BI с чартами находится в файле **`taxi_park.pbix`**
 
 ## • Результаты A/B теста
@@ -107,6 +107,7 @@ Jupyter notebook с анализом находится в файле **`taxi_pa
 
 ## • Дашбоард результатов A/B теста
 <img src="images/taxi_park_dash.jpg" alt="pic1" width="1200">
+
 
 
 
